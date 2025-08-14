@@ -1,6 +1,6 @@
 # 🍅 Pomodoro Timer - Aplicativo Android
 
-![Prévia do App](https://github.com/user-attachments/assets/e7d50e38-86d7-4fc7-9398-7f9ef1b820dc)
+<img src="https://github.com/user-attachments/assets/e7d50e38-86d7-4fc7-9398-7f9ef1b820dc" width="400">
 
 Um aplicativo de produtividade simples e elegante para Android que implementa a técnica Pomodoro. Desenvolvido como um projeto de portfólio para demonstrar habilidades em desenvolvimento nativo com Kotlin e o sistema de Views do Android.
 
