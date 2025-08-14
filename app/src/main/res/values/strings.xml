@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pomodoro</string>
+
+    <string-array name="pomodoro_options">
+        <item>Foco</item>
+        <item>Pausa Curta</item>
+        <item>Pausa Longa</item>
+    </string-array>
+
+</resources>
